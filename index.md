@@ -6,11 +6,8 @@ title: FKL2000
 {% include JB/setup %}
 <table width="100%">
     <tr>
-        <td><a href="#updates">Updates</a></td>
         <td><a href="#posts">Posts</a></td>
         <td><a href="./Downloads">Downloads</a></td>
-        <td><a href="#links">Links</a></td>
-        <td><a href=./links>More links</a></td>
         <td><a href="#contact">Contact</a></td>
     </tr>
 </table>
