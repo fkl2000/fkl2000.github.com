@@ -6,9 +6,10 @@ title: FKL2000
 {% include JB/setup %}
 <table width="100%">
     <tr>
-        <td><a href="#posts">Posts</a></td>
-        <td><a href="./Downloads">Downloads</a></td>
-        <td><a href="#contact">Contact</a></td>
+        <td><a href="#posts">文章</a></td>
+        <td><a href="#links">链接</a></td>
+        <td><a href="./Downloads">下载</a></td>
+        <td><a href="#contact">联系方式</a></td>
     </tr>
 </table>
 ----------------------------------
