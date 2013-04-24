@@ -1,6 +1,6 @@
 ---
 layout: page
-title: FKL2000
+title: FYM 主页
 ---
 <p id="top"></p>
 {% include JB/setup %}
